@@ -16,6 +16,7 @@ luarocks install https://raw.githubusercontent.com/szym/display/master/display-s
 ```
 
 ## Demo
+run
 ```bash
 DATA_ROOT=datasets/EN/ name=EN which_direction=BtoA phase=256_256 th test.lua
 ```
