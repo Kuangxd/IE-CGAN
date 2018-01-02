@@ -19,4 +19,4 @@ luarocks install https://raw.githubusercontent.com/szym/display/master/display-s
 ```bash
 DATA_ROOT=datasets/EN/ name=EN which_direction=BtoA phase=256_256 th test.lua
 ```
-Then, results are shown in ./results/EN/latest_net_G_256_256/images/output
+Then, results are shown in `./results/EN/latest_net_G_256_256/images/output`
