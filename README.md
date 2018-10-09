@@ -1,6 +1,9 @@
 # IE-CGAN
 - Torch implementation
 
+<img src="imgs/img1.tif" width="900px"/>
+
+
 ## Setup
 
 ### Prerequisites
